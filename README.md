@@ -2,6 +2,8 @@
 
 A great cloud needs great tools, but apparently Microsoft forgot to create either. Implements supports for the following missing operations:
 
+* `keyvault-kek` provides Key Vault Key Encryption Key wrap and unwrap
+
 ---
 
 ## Installation
